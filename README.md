@@ -12,7 +12,7 @@
     <a href="https://www.frontendmentor.io/solutions/order-summary-component-oThH3-g4cJ" target='_blank' color="white">
       Solution URL
     </a>
-  <span> ~||~ </span>    <a target='_blank' href="https://guidofamula.github.io/easybank-landing-page-frontendmentor">
+  <span> ~||~ </span>    <a target='_blank' href="https://easybank-landing-page-frontendmentor.vercel.app/">
       Live URL
     </a>
   <span> ~||~ </span>    <a target='_blank' href="https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN">
