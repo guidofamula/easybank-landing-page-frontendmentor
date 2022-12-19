@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Public Sans", sans-serif;
+  }
+}
+
+@layer base {
+  :root {
+    /*  Primary */
+    --dark-blue: 233deg 26% 24%;
+    --lime-green: 136deg 65% 51%;
+    --bright-cyan: 192deg 70% 51%;
+    /*  Netral  */
+    --grayish-blue: 233deg 8% 62%;
+    --light-grayish-blue: 220deg 16% 96%;
+    --very-light-gray: 0deg 0% 98%;
+    --white: 0deg 0% 100%;
+  }
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
