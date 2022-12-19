@@ -46,17 +46,17 @@ Users should be able to:
 
 ### Screenshots Version
 
-<h2>Mobile version</h2>
+<h2 align='center'>Mobile version</h2>
 <div align="center">
 <img src="./src/assets/screenshots/easybank-landing-page-mobile1.png" ></img>
 </div>
 <br />
-<h2>Navbar Sticky(toggle) on mobile</h2>
+<h2 align="center" >Navbar Sticky(toggle) on mobile</h2>
 <div align="center">
 <img src="./src/assets/screenshots/easybank-landing-page-mobile2.png" ></img>
 </div>
 <br />
-<h2>Navbar Sticky on desktop</h2>
+<h2 align="center" >Navbar Sticky on desktop</h2>
 <div align="center">
 <img src="./src/assets/screenshots/easybank-landing-page-desktop2.png" ></img>
 </div>
