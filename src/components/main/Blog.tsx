@@ -23,7 +23,7 @@ const Blog = () => {
 								/>
 								<div className='p-5 sm:max-md:p-9 sm:max-md:pr-2'>
 									<h1 className='text-[12px] text-netral-gray-blue sm:max-md:mb-2'>
-										<p>By {article.author}</p>
+										By {article.author}
 									</h1>
 									<h1 className='text-[20px] sm:max-md:text-[16px] sm:max-md:pr-5 text-primary-dark-blue leading-snug font-normal hover:text-primary-bright-cyan transition duration-300 ease-in-out cursor-pointer'>
 										{article.title}
