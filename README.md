@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://www.frontendmentor.io/solutions/order-summary-component-oThH3-g4cJ" target='_blank' color="white">
+    <a href="https://www.frontendmentor.io/solutions/easybank-landing-page-2B7GkMzGDL" target='_blank' color="white">
       Solution URL
     </a>
   <span> ~||~ </span>    <a target='_blank' href="https://easybank-landing-page-frontendmentor.vercel.app/">
