@@ -1,6 +1,7 @@
 <h1 align="center">Easybank Landing Page</h1>
-
-<img align='center' src="./src/assets/screenshots/easybank-landing-page-desktop.png" ></img>
+<div align='center'>
+<img src="./src/assets/screenshots/easybank-landing-page-desktop.png" ></img>
+</div>
 
 <div align="center">
    Challenge by  <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">frontendmentor.io</a>. Coded by <a href="https://guidofamula.com">Guido Famula</a>.
